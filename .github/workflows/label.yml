@@ -1,5 +1,5 @@
 name: Labeler
-on: [issue]
+on: [issues]
 
 jobs:
   label: awaiting review

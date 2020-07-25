@@ -2,7 +2,7 @@ name: Labeler
 on: [issue]
 
 jobs:
-  label: not reviewed
+  label: awaiting review
 
     runs-on: ubuntu-latest
 

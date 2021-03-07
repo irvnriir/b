@@ -2,7 +2,7 @@
 
 Use Labels when you search, we intend them to be .
 
-Suggest to: add or create; missing Labels, in relevant Issues .
+If any, suggest to: add or create; missing Labels, in relevant Issues .
 
 ## Welcome to GitHub Pages
 

@@ -4,6 +4,10 @@ When you search, use Labels that start with: from "- " to "-1 ";, we intend them
 
 If any, suggest to: add or create; missing Labels, in relevant Issues .
 
+## Github Flavored Markdown
+
+![.md](assets\github_b\add.md)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/irvnriir/t/edit/master/README.md) to maintain and preview the content for your website in Markdown files.

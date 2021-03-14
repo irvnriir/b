@@ -15,10 +15,10 @@ _text
 1. _text  
 	2. _text		//github (doesn't work without empty newline)
 
-	2. _text		//github
+	2. _text		//github (language)
 
 		3. _text		//github
-        3. _text        //github
+		3. _text		//github
 
 			4. _text		//github
 
@@ -26,7 +26,7 @@ _text
 _newLine
 
 **_text**  
-<u>_text</u>		//githubWiki supports, github_repository_code not  
+<u>_text</u>		// #underline . githubWiki supports, github_repository_code not  
 ~~text~~  
 *_text*  
 \_text <sup>\_"superscript"</sup> <sub>\_"subscript"</sub>  

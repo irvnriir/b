@@ -9,29 +9,28 @@ _Paragraph
 _Paragraph
 
 * _text
-
-    * _text
+	* _text
 
 _text
-1. _text  
-	2. _text  
+1. _text
+	2. _text
+
 		3. _text		//github
 
 		3. _text		//github
 
 	2. _text		//github
-
 		3. _text		//github
-
 			4. _text		//github
 
 \<\> \_text\_  
 _newLine
 
 **_text**  
-<u>_text</u>  
+<u>_text</u>		//githubWiki supports, github_repository_code not  
+~~text~~  
 *_text*  
-\_text<sup>\_"superscript"</sup><sub>\_"subscript"</sub>  
+\_text <sup>\_"superscript"</sup> <sub>\_"subscript"</sub>  
 
 _text <sup><span
 	 title="_text">[_name]</span></sup>

@@ -27,7 +27,7 @@ _newLine
 
 **_text**  
 <u>_text</u>		// #underline . githubWiki supports, github_repository_code not  
-~~text~~  
+~~_text~~  
 *_text*  
 \_text <sup>\_"superscript"</sup> <sub>\_"subscript"</sub>  
 

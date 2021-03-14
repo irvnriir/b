@@ -10,4 +10,4 @@ If any, suggest to: add or create; missing Labels, in relevant Issues .
 
 ## Github Pages
 
-[info_markdown_github.md](assets/github_b/info_githubPages.md)
+[info_githubPages.md](assets/github_b/info_githubPages.md)

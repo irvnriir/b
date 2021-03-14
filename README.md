@@ -6,15 +6,7 @@ If any, suggest to: add or create; missing Labels, in relevant Issues .
 
 ## Github Flavored Markdown
 
-### Linking files
-
-[.md](assets/github_b/add.md)
-
-[.md](assets\\github_b\\add.md)
-
-[.md](assets//github_b//add.md)
-
-![pi](assets/github_b/co_dw_256x256.png)
+[.md](assets/github_b/info_markdown_github.md)
 
 ## Welcome to GitHub Pages
 

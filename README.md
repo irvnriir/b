@@ -6,7 +6,7 @@ If any, suggest to: add or create; missing Labels, in relevant Issues .
 
 ## Github Flavored Markdown
 
-[.md](assets/github_b/info_markdown_github.md)
+[info_markdown_github.md](assets/github_b/info_markdown_github.md)
 
 ## Welcome to GitHub Pages
 

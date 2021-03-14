@@ -8,12 +8,9 @@ _Paragraph
 
 _Paragraph
 
-|_tableHeader	|_tableHeader	|
-|---		|---		|
-|_text		|_text		|
-
 * _text
-	* _text
+
+    * _text
 
 _text
 1. _text  
@@ -44,3 +41,17 @@ _text<sup
 
 <!--_textOfTheComment>>-->
 [comment]: _wordOfTheComment
+
+|_tableHeader   |_tableHeader   |
+|---            |---            |
+|_text          |_text          |
+
+### Linking files
+
+[.md](../../assets/github_b/add.md)
+
+[.md](..\\..\\assets\\github_b\\add.md)
+
+[.md](..//..//assets//github_b//add.md)
+
+![pi](../../assets/github_b/co_dw_256x256.png)

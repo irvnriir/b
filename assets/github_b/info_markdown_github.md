@@ -12,15 +12,14 @@ _Paragraph
 	* _text
 
 _text
-1. _text
-	2. _text
-
-		3. _text		//github
-
-		3. _text		//github
+1. _text  
+	2. _text		//github (doesn't work without empty newline)
 
 	2. _text		//github
+
 		3. _text		//github
+        3. _text        //github
+
 			4. _text		//github
 
 \<\> \_text\_  

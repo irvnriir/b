@@ -6,8 +6,6 @@
 
 _Paragraph
 
-_Paragraph
-
 * _text
 	* _text
 

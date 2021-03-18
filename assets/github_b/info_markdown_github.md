@@ -12,7 +12,7 @@ _Paragraph
 
 _text
 1. _text  
-	2. _text		//github (doesn't process, without empty newline)
+	2. _text		//github (doesn't process -- without empty newline)
 5. _text
 
 	2. _text		//github (language)

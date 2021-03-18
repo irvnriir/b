@@ -8,10 +8,12 @@ _Paragraph
 
 * _text
 	* _text
+* _text
 
 _text
 1. _text  
-	2. _text		//github (doesn't work without empty newline)
+	2. _text		//github (doesn't process, without empty newline)
+5. _text
 
 	2. _text		//github (language)
 
@@ -19,6 +21,7 @@ _text
 		3. _text		//github
 
 			4. _text		//github
+6. _text
 
 \<\> \_text\_  
 _newLine

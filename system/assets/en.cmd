@@ -2,7 +2,7 @@
 @echo off
 
 
-rem # cmd_en ver 0.3
+rem # cmd_en ver 0.3_dev
 rem # a Library for Microsoft Windows {cmd.exe / cmd / Batch}
 rem # mostly written for independent processing by cmd
 rem 
@@ -15,7 +15,7 @@ rem
 rem execute the script's commands as ``call !en! <<name>> <<| `"`<<value>>`"` ..>>`` .
 rem 	 passing [!br!] in `call` 's Parameter doesn't work .
 rem 	 so use temporal files for setting text (multiline) as subject .
-rem 	 and, with `call "<<pathToFile>>"`, or an function's "if" name, for script/code .
+rem 	 and, with `call "<<pathToFile>>"`, or a function's "if" name, for script/code .
 rem the max var size is 8191 chars, so such is per line for files processing, that means all value/data interacting functions .
 rem use "cmd_temp<<number>>.txt" and "cmd_temp<<number>>.cmd" file names for temporal files . such names will be used as Parameter -s' **Default values** .
 rem 	 but won't ever be changed by this system, without being related/mentioned in description of the used input .

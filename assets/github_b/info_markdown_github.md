@@ -35,8 +35,8 @@ _newLine
 _text <sup><span
 	 title="_text">[_name]</span></sup>
 
-_text<sup
-	 title="_text" style="color:dodgerBlue;"><b>[i]</b></sup>		//github doesn't allow colors
+_text *<sup
+	 title="_text" style="color:dodgerBlue;"><b>[i]</b></sup>*			//github doesn't allow colors
 
 <!--_textOfTheComment>>-->
 [comment]: _wordOfTheComment

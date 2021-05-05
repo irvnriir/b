@@ -45,7 +45,6 @@ _text <i><sup
 |---            |---            |
 |_text          |_text          |
 
-
 <details><summary>_shortenedText
 </summary>
 

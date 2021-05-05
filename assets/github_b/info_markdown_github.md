@@ -35,8 +35,8 @@ _newLine
 _text <sup><span
 	 title="_text">[_name]</span></sup>
 
-_text *<sup
-	 title="_text" style="color:dodgerBlue;"><b>[i]</b></sup>*			//github doesn't allow colors
+_text <i><sup
+	 title="_text" style="color:dodgerBlue;"><b>[i]</b></sup></i>			//github doesn't allow colors
 
 <!--_textOfTheComment>>-->
 [comment]: _wordOfTheComment
@@ -44,6 +44,14 @@ _text *<sup
 |_tableHeader   |_tableHeader   |
 |---            |---            |
 |_text          |_text          |
+
+
+<details><summary>_shortenedText
+</summary>
+
+_text
+
+</details>
 
 ### Linking files
 

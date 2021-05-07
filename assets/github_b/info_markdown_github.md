@@ -23,8 +23,11 @@ _text
 			4. _text		//github
 6. _text
 
-\<\> \_text\_  
-_newLine
+_newLines
+<br />
+<br />
+
+\<\> \_text\_
 
 **_text**  
 <u>_text</u>		// #underline . githubWiki supports, github_repository_code not  
@@ -52,12 +55,44 @@ _text
 
 </details>
 
-### Linking files
+### Linking files, paths
 
-[.md](../../assets/github_b/add.md)
+URL Escaping
+```
+Space 	%20
+<	%3C
+>	%3E
+#	%23
+%	%25
+{	%7B
+}	%7D
+|	%7C
+\	%5C
+^	%5E
+~	%7E
+[	%5B
+]	%5D
+`	%60
+;	%3B
+/	%2F
+?	%3F
+:	%3A
+@	%40
+=	%3D
+&	%26
+$	%24
+Carriage Return	%0D
+Line Feed	%0A
+```
+
+The filename is supported by: Windows, [d Linux] .
+
+1aA\`~!@#$%^&()-\_=+{},. .md
+
+[.md](..//..//assets//github_b//1aA`~!@%23$%25%5E&()-_=+{},.%20.md)
+
+[.md](../../assets/github_b/1aA`~!@%23$%25%5E&()-_=+{},.%20.md)
 
 [.md](..\\..\\assets\\github_b\\add.md)
 
-[.md](..//..//assets//github_b//add.md)
-
-![pi](../../assets/github_b/co_dw_256x256.png)
+![pi](..//..//assets//github_b//co_dw_256x256.png)

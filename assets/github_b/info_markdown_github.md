@@ -4,54 +4,54 @@
 
 ### Heading3
 
-_Paragraph
+Paragraph__
 
-* _text
-	* _text
-* _text
+* text__
+	* text__
+* text__
 
-_text
-1. _text  
-	2. _text		//github (doesn't process -- without empty newline)
-5. _text
+text__
+1. text__  
+	2. text__	        //github (doesn't process -- without empty newline)
+5. text__
 
-	2. _text		//github (language)
+	2. text__		//github (language)
 
-		3. _text		//github
-		3. _text		//github
+		3. text__		//github
+		3. text__		//github
 
-			4. _text		//github
-6. _text
+			4. text__		//github
+6. text__
 
-_newLines
+newLines__
 <br />
 <br />
 
 \<\> \_text\_
 
-**_text**  
-<u>_text</u>		// #underline . githubWiki supports, github_repository_code not  
-~~_text~~  
-*_text*  
-\_text <sup>\_"superscript"</sup> <sub>\_"subscript"</sub>  
+**text__**  
+<u>text__</u>		// #underline . githubWiki supports, github_repository_code not  
+~~text__~~  
+*text__*  
+text__ <sup>"superscript"\_\_</sup> <sub>"subscript"\_\_</sub>  
 
-_text <sup><span
-	 title="_text">[_name]</span></sup>
+text__ <i><sup><span
+         title="text__" style="color:dodgerBlue;">[name__]</span></sup></i>                //github doesn't allow colors
 
-_text <i><sup
-	 title="_text" style="color:dodgerBlue;"><b>[i]</b></sup></i>			//github doesn't allow colors
+text__ <sup
+	 title="text__"><b>[i]</b></sup>
 
-<!--_textOfTheComment>>-->
-[comment]: _wordOfTheComment
+<!--_textOfTheComment__>>-->
+[comment]: wordOfTheComment__
 
-|_tableHeader   |_tableHeader   |
-|---            |---            |
-|_text          |_text          |
+|tableHeader__      |tableHeader__      |
+|---                |---                |
+|text__             |text__             |
 
-<details><summary>_shortenedText
+<details><summary>shortenedText__
 </summary>
 
-_text
+text__
 
 </details>
 
@@ -59,30 +59,30 @@ _text
 
 URL Escaping
 ```
-Space 	%20
-<	%3C
->	%3E
-#	%23
-%	%25
-{	%7B
-}	%7D
-|	%7C
-\	%5C
-^	%5E
-~	%7E
-[	%5B
-]	%5D
-`	%60
-;	%3B
-/	%2F
-?	%3F
-:	%3A
-@	%40
-=	%3D
-&	%26
-$	%24
-Carriage Return	%0D
-Line Feed	%0A
+Space   %20
+#       %23
+$       %24
+%       %25
+^       %5E
+&       %26
+`       %60
+~       %7E
+@       %40
+[       %5B
+]       %5D
+\       %5C
+/       %2F
+:       %3A
+;       %3B
+<       %3C
+=       %3D
+>       %3E
+?       %3F
+{       %7B
+|       %7C
+}       %7D
+Carriage Return %0D
+Line Feed       %0A
 ```
 
 The filename is supported by: Windows, [d Linux] .

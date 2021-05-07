@@ -59,30 +59,28 @@ text__
 
 URL Escaping
 ```
-Space   %20
-#       %23
-$       %24
-%       %25
-^       %5E
-&       %26
-`       %60
-~       %7E
-@       %40
-[       %5B
-]       %5D
-\       %5C
-/       %2F
-:       %3A
-;       %3B
-<       %3C
-=       %3D
->       %3E
-?       %3F
-{       %7B
-|       %7C
-}       %7D
-Carriage Return %0D
-Line Feed       %0A
+Space 	%20
+<	%3C
+>	%3E
+#	%23
+%	%25
+{	%7B
+}	%7D
+|	%7C
+\	%5C
+^	%5E
+~	%7E
+[	%5B
+]	%5D
+`	%60
+;	%3B
+/	%2F
+?	%3F
+:	%3A
+@	%40
+=	%3D
+&	%26
+$	%24
 ```
 
 The filename is supported by: Windows, [d Linux] .

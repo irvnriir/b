@@ -91,10 +91,10 @@ The filename is supported by: Windows, [d Linux] .
 
 [.md](..//..//assets//github_b//1aA`~!@%23$%25%5E&()-_=+{},.%20.md) -- [Percent-encoding](https://en.wikipedia.org/wiki/Percent-encoding)/URI/URL .
 
-[.md](..//..//assets//github_b//1aA`~!@%23$%25%5E&()-_=+{},.&#x20;.md) -- [Space] from [Numeric character reference](https://en.wikipedia.org/wiki/Numeric_character_reference)/HTML/XML .
+[Folder](..//..//assets//github_b//1aA`~!@%23$%25%5E&()-_=+{},%20.)
+
+[.md](..//..//assets//github_b//1aA`~!@%23$%25%5E&()-_=+{},.&#x20;.md) -- [Space], can be `&#32;`, is from [Numeric character reference](https://en.wikipedia.org/wiki/Numeric_character_reference)/HTML/XML .
 
 [.md](../../assets/github_b/1aA`~!@%23$%25%5E&()-_=+{},.&#32;.md)
-
-[.md](..\\..\\assets\\github_b\\add.md)
 
 ![pi](..//..//assets//github_b//co_dw_256x256.png)

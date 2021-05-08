@@ -60,30 +60,30 @@ text__
 [Percent-encoding](https://en.wikipedia.org/wiki/Percent-encoding)/URI/URL .
 ```
 Space	%20
-`		%60
-~		%7E
-@		%40
-#		%23
-$		%24
-%		%25
-^		%5E
-&		%26
-*		%2A
-/		%2F
-:		%3A
-;		%3B
-<		%3C
-=		%3D
->		%3E
-?		%3F
-[		%5B
-\		%5C
-]		%5D
-{		%7B
-|		%7C
-}		%7D
+`	%60
+~	%7E
+@	%40
+#	%23
+$	%24
+%	%25
+^	%5E
+&	%26
+*	%2A
+/	%2F
+:	%3A
+;	%3B
+<	%3C
+=	%3D
+>	%3E
+?	%3F
+[	%5B
+\	%5C
+]	%5D
+{	%7B
+|	%7C
+}	%7D
 Carriage Return	%0D
-Line Feed		%0A
+Line Feed	%0A
 ```
 
 The filename is supported by: Windows, [d Linux] .

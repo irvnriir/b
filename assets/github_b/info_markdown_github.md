@@ -61,7 +61,6 @@ text__
 ```
 Space	%20
 `	%60
-~	%7E
 @	%40
 #	%23
 $	%24
@@ -82,6 +81,7 @@ $	%24
 {	%7B
 |	%7C
 }	%7D
+~       %7E
 Carriage Return	%0D
 Line Feed	%0A
 ```

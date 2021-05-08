@@ -57,7 +57,7 @@ text__
 
 ### Linking files, paths
 
-URL Escaping
+[Percent-encoding](https://en.wikipedia.org/wiki/Percent-encoding)/URI/URL .
 ```
 Space	%20
 `		%60
@@ -90,7 +90,7 @@ The filename is supported by: Windows, [d Linux] .
 
 1aA\`~!@#$%^&()-\_=+{},. .md
 
-[.md](..//..//assets//github_b//1aA`~!@%23$%25%5E&()-_=+{},.%20.md) -- [Percent-encoding](https://en.wikipedia.org/wiki/Percent-encoding)/URI/URL .
+[.md](..//..//assets//github_b//1aA`~!@%23$%25%5E&()-_=+{},.%20.md) -- URL Escaping
 
 [Folder](..//..//assets//github_b//1aA`~!@%23$%25%5E&()-_=+{},%20.)
 

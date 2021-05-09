@@ -1,3 +1,18 @@
+<div align=center><b>
+<h3>Github Markdown Description</h3>
+[ver_dev] by irvnriir
+
+[English]
+</b></div>
+
+<div style="text-align: center;">HTML Section/Container content</div>
+
+<div align=center>HTML Section/Container content</div>
+
+<p style="text-align: center;">paragraph HTML mark (usually for auto-surrond with vertical indent) content</p>
+
+<p align=center>paragraph HTML mark (usually for auto-surrond with vertical indent) content</p>
+
 # Heading1
 
 ## Heading2
@@ -12,15 +27,15 @@ Paragraph__
 
 text__
 1. text__  
-	2. text__	        //github (doesn't process -- without empty newline)
+	2. text__ -- github (doesn't process -- without empty newline)
 5. text__
 
-	2. text__		//github (language)
+	2. text__ -- github (number's language)
 
-		3. text__		//github
-		3. text__		//github
+		3. text__ -- github
+		3. text__ -- github
 
-			4. text__		//github
+			4. text__ -- github
 6. text__
 
 newLines__
@@ -30,13 +45,13 @@ newLines__
 \<\> \_text\_
 
 **text__**  
-<u>text__</u>		// #underline . githubWiki supports, github_repository_code not  
+<u>text__</u> : #underline . githubWiki supports, github_repository_code not ;  
 ~~text__~~  
 *text__*  
 text__ <sup>"superscript"\_\_</sup> <sub>"subscript"\_\_</sub>  
 
 text__ <i><sup><span
-         title="text__" style="color:dodgerBlue;">[name__]</span></sup></i>                //github doesn't allow colors
+         title="text__" style="color:dodgerBlue;">[name__]</span></sup></i> : github doesn't allow colors . Span -- in-line HTML Section/Container ;
 
 text__ <sup
 	 title="text__"><b>[i]</b></sup>
@@ -86,9 +101,9 @@ Carriage Return	%0D
 Line Feed	%0A
 ```
 
-The filename is supported by: Windows, [d Linux] .
+The filename is supported by: Windows, [d Linux] . --
 
-1aA\`~!@#$%^&()-\_=+{},. .md
+1aA\`~!@#$%^&()-\_=+{},. .md .
 
 [.md](..//..//assets//github_b//1aA`~!@%23$%25%5E&()-_=+{},.%20.md) -- URL Escaping
 

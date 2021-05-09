@@ -1,5 +1,6 @@
-<div align=center><b>
-<h3>Github Markdown Description</h3>
+<div align=center><h3><b>
+Github Markdown Description
+</b></h3><b>
 [ver_dev] by Xrud
 
 [English]

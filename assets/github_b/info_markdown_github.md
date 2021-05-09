@@ -1,6 +1,6 @@
 <div align=center><b>
 <h3>Github Markdown Description</h3>
-[ver_dev] by irvnriir
+[ver_dev] by Xrud
 
 [English]
 </b></div>

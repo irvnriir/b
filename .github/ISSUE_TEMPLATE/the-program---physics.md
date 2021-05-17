@@ -2,7 +2,7 @@
 name: The program \ physics
 about: "..."
 title: ''
-labels: "-1 physics, -2 product"
+labels: awaiting review, -1 physics, -2 product
 assignees: ''
 
 ---

@@ -2,7 +2,7 @@
 name: The program \ controls/interface
 about: "..."
 title: ''
-labels: "-1 controls/interface, -2 product"
+labels: awaiting review, -1 controls/interface, -2 product
 assignees: ''
 
 ---

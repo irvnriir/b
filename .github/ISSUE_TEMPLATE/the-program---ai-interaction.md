@@ -2,7 +2,7 @@
 name: The program \ AI interaction
 about: "..."
 title: ''
-labels: "-1 AI interaction, -2 product"
+labels: awaiting review, -2 product, -1 AI interaction
 assignees: ''
 
 ---

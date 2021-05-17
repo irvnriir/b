@@ -1,9 +1,9 @@
 ---
 name: "-2 The project resources"
-about: Everything about this Repository, organization/company or other supplemental
-  works.
+about: Everything about this Repository, other Web resources, organization/company,
+  licenses or other supplemental works or selections, of this project.
 title: ''
-labels: awaiting review, -2 project
+labels: "-2 project, awaiting review"
 assignees: ''
 
 ---

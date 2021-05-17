@@ -2,7 +2,7 @@
 name: The program \ AI planning
 about: "..."
 title: ''
-labels: awaiting review, -2 product, -1 AI planning
+labels: "-1 AI planning, -2 product, awaiting review"
 assignees: ''
 
 ---

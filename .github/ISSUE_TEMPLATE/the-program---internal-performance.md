@@ -2,7 +2,7 @@
 name: The program \ internal performance
 about: "..."
 title: ''
-labels: awaiting review, -1 internal performance, -2 product
+labels: "-1 internal performance, -2 product, awaiting review"
 assignees: ''
 
 ---

@@ -2,7 +2,7 @@
 name: The program \ graphics rendering/media
 about: "..."
 title: ''
-labels: awaiting review, -1 graphics rendering/media, -2 product
+labels: "-1 graphics rendering/media, -2 product, awaiting review"
 assignees: ''
 
 ---

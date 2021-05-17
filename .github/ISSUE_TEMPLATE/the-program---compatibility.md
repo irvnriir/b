@@ -2,7 +2,7 @@
 name: The program \ compatibility
 about: "..."
 title: ''
-labels: awaiting review, -1 compatibility, -2 product
+labels: "-1 compatibility, -2 product, awaiting review"
 assignees: ''
 
 ---

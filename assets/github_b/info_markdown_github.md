@@ -108,7 +108,7 @@ The filename is supported by: Windows, [d Linux] . --
 
 [.md](..//..//assets//github_b//1aA`~!@%23$%25%5E&()-_=+{},.%20.md) -- URL Escaping
 
-[Folder](..//..//assets//github_b//1aA`~!@%23$%25%5E&()-_=+{},%20.)
+[Folder](..//..//assets//github_b//1aA`~!@%23$%25%5E&()-_=+{}.%20,)
 
 [.md](..//..//assets//github_b//1aA`~!@%23$%25%5E&()-_=+{},.&#x20;.md) -- [Space], can be `&#32;`, is from [Numeric character reference](https://en.wikipedia.org/wiki/Numeric_character_reference)/HTML/XML .
 

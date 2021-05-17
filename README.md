@@ -4,7 +4,7 @@ Please feel free to contribute or suggest, to any part of the project .
 
 When you search, use Labels that start with: from "- " to "-1 "; we intend them to be .
 
-If any, suggest to: add or create; missing Labels, in relevant Issues .
+If any, suggest to: add or create; missing Labels, in/with relevant Issues .
 
 <!-- [dev GitHub\Issues, public . on create, multi-relation Labels selection (for example "potential bug" + "controls" + "project_1" + "tag_merge_1")] -->
 

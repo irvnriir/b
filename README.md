@@ -2,7 +2,7 @@ Please feel free to contribute or suggest, to any part of the project .
 
 ## GitHub Issues
 
-When you search, use Labels that start with: from "- " to "-1 "; we intend them to be .
+When you search, use Labels that start with: from "- " to "-2 "; we intend them to be .
 
 If any, suggest to: add or create; missing Labels, in/with relevant Issues .
 

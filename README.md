@@ -25,7 +25,7 @@ For controls and other, see [Git info by Xrud](system//info_git.md) .
 ### Operating Systems
 
 Windows, at the time:
-* Removes "." at end of folder names, on creation . Also such removes " " previous to it .
+* Removes "." at end of folder names, on creation . Also such removes all " " previous to it .
 * Doesn't support `*[];:'"\|<>/?` characters and "con": Name part of file name, or a folder name .
 
 ## Github Pages

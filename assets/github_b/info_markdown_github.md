@@ -71,7 +71,7 @@ text__
 
 </details>
 
-### Linking files, paths
+## Linking files, paths
 
 [Percent-encoding](https://en.wikipedia.org/wiki/Percent-encoding)/URI/URL .
 ```
@@ -116,3 +116,8 @@ The filename is supported by: Windows, [d Linux] . --
 
 ![pi](..//..//assets//github_b//co_dw_256x256.png)
 
+### At the time, doesn't work on Github
+
+[Folder](..\..\assets\github_b\1aA`~!@%23$%25%5E&()-_=+{}.%20,)
+
+[Folder](..\\..\\assets\\github_b\\1aA`~!@%23$%25%5E&()-_=+{}.%20,)

@@ -1,7 +1,7 @@
 <div align=center><h3><b>
 Github Markdown Description
 </b></h3><b>
-[ver_dev] by Xrud
+[info_markdown] [ver_dev] by Xrud
 
 [English]
 </b></div>

@@ -1,3 +1,9 @@
+---
+variableName__: line__
+variableName_1__: line__
+---
+// Github . VScode doesn't show . Both require directly at start of file .
+
 <div align=center><h3><b>
 Github Markdown Description
 </b></h3><b>

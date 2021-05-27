@@ -116,9 +116,13 @@ The filename is supported by: Windows, [d Linux] . --
 
 [Folder](..//..//assets//github_b//1aA`~!@%23$%25%5E&()-_=+{}.%20,)
 
+[.md][1] -- in-script/code shortening, Xrud highly suggested not to use "[1]" (only / as a name)
+
+[1]: ..//..//assets//github_b//1aA`~!@%23$%25%5E&()-_=+{},.%20.md
+
 [.md](..//..//assets//github_b//1aA`~!@%23$%25%5E&()-_=+{},.&#x20;.md) -- [Space], can be `&#32;`, is from [Numeric character reference](https://en.wikipedia.org/wiki/Numeric_character_reference)/HTML/XML .
 
-[.md](../../assets/github_b/1aA`~!@%23$%25%5E&()-_=+{},.&#32;.md)
+* [.md](../../assets/github_b/1aA`~!@%23$%25%5E&()-_=+{},.&#32;.md)
 
 ![pi](..//..//assets//github_b//co_dw_256x256.png)
 

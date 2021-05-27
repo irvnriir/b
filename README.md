@@ -31,3 +31,9 @@ Windows, at the time:
 ## Github Pages
 
 [info_githubPages.md](assets/github_b/info_githubPages.md)
+
+# Dev
+
+1. from Test Branch, del all that is not a part of the Test .
+2. test Branch release asset names .
+3. del history .

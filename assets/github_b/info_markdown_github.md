@@ -116,7 +116,7 @@ The filename is supported by: Windows, [d Linux] . --
 
 [Folder](..//..//assets//github_b//1aA`~!@%23$%25%5E&()-_=+{}.%20,)
 
-[.md][_name_1_] -- in-script/code shortening . Xrud highly suggested not to use "`[_name_]`" (only / as a name)
+[.md][_name_1_] -- in-script/code shortening . Xrud highly suggested not to use "`[_name_1_]`" (only / as a name)
 
 [_name_1_]: ..//..//assets//github_b//1aA`~!@%23$%25%5E&()-_=+{},.%20.md
 

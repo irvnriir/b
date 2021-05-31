@@ -122,7 +122,7 @@ The filename is supported by: Windows, [d Linux] . --
 
 [#1] -- !!! Xrud highly suggested to use only with `#<<number>>`, `sho<<number>>` or `sho_<<number>>` .
 
-[#1]: ..//..//assets//github_b//1aA`~!@%23$%25%5E&()-_=+{},.%20.md
+[#1]: ..//..//assets//github_b//1aA`~!@%23$%25%5E&()-_=+{},.%20.md 
 
 [.md](..//..//assets//github_b//1aA`~!@%23$%25%5E&()-_=+{},.&#x20;.md) -- [Space], can be `&#32;`, is from [Numeric character reference](https://en.wikipedia.org/wiki/Numeric_character_reference)/HTML/XML .
 
@@ -132,6 +132,8 @@ The filename is supported by: Windows, [d Linux] . --
 
 ### At the time, doesn't work on Github
 
-[Folder](..\..\assets\github_b\1aA`~!@%23$%25%5E&()-_=+{}.%20,)
+[Folder](..\..\assets\github_b\1aA`~!@%23$%25%5E&()-_=+{}.%20,) -- "\"
 
-[Folder](..\\..\\assets\\github_b\\1aA`~!@%23$%25%5E&()-_=+{}.%20,)
+[Folder](..\\..\\assets\\github_b\\1aA`~!@%23$%25%5E&()-_=+{}.%20,) -- "\\"
+
+[.md](..//..//assets//github_b//1aA`~!@%23$%25%5E&()-_=+{},.+.md) -- "+" = [Space] . Some: Seach Engines and other sites;

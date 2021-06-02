@@ -79,17 +79,18 @@ text__
 
 ## Linking files, paths
 
-[Percent-encoding](https://en.wikipedia.org/wiki/Percent-encoding)/URI/URL .
+[Percent-encoding](https://en.wikipedia.org/wiki/Percent-encoding)/URI/URL -- uses Unicode codes
 ```
 Space	%20
 `	%60
 @	%40
-#	%23
+#	%23		//MediaWiki: Wikipedia/Fandom; doesn't support in Article names
 $	%24
 %	%25
 ^	%5E
 &	%26
 *	%2A
+-	%2D		//Epic Games Store use to replace punctuation
 /	%2F
 :	%3A
 ;	%3B
@@ -97,13 +98,14 @@ $	%24
 =	%3D
 >	%3E
 ?	%3F
-[	%5B
+[	%5B		//GitHub doesn't support in file/folder names
 \	%5C
-]	%5D
-{	%7B
+]	%5D		//GitHub doesn't support in file/folder names
+_	%5F		//MediaWiki: Wikipedia/Fandom; convert to Space in Article names
+{	%7B		//MediaWiki: Wikipedia/Fandom; doesn't support in Article names
 |	%7C
-}	%7D
-~       %7E
+}	%7D		//MediaWiki: Wikipedia/Fandom; doesn't support in Article names
+~	%7E
 Carriage Return	%0D
 Line Feed	%0A
 ```

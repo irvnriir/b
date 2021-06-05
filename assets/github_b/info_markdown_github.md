@@ -12,6 +12,8 @@ Github Markdown Description
 [English]
 </b></div>
 
+This page is dev, but we think its simple enough .
+
 <div style="text-align: center;">HTML Section/Container content</div>
 
 <div align=center>HTML Section/Container content</div>

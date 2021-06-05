@@ -138,4 +138,4 @@ The filename is supported by: Windows, [d Linux] . --
 
 [Folder](..\\..\\assets\\github_b\\1aA`~!@%23$%25%5E&()-_=+{}.%20,) -- `\\`
 
-[.md](..//..//assets//github_b//1aA`~!@%23$%25%5E&()-_=+{},.+.md) -- `+` = [Space] . Some: Seach Engines and other sites;
+[.md](..//..//assets//github_b//1aA`~!@%23$%25%5E&()-_=+{},.+.md) -- `+` = [Space] -- some: Seach Engines and other sites;

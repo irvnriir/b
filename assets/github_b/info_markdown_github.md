@@ -73,7 +73,8 @@ text__ <sup
 |text__             |text__             |
 
 <details><summary>
-shortenedText__</summary>
+	shortenedText__
+</summary>
 
 text__
 

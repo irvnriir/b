@@ -1,8 +1,77 @@
 
-Relative from system/project/Home folder: [.md](/assets/github_b/1aA`~!@%23$%25%5E&()-_=+{},.%20.md), on linux by default this means from the parrent-most (OS) folder . 
+The filename is supported by: Windows, [dev Linux] . --
+
+`` 1aA\`~!@#$%^&()-\_=+{},. .md `` .
+
+GitHub required URL Escaping:
+* ``[.md](..//..//assets//github_b//1aA`~!@%23$%25%5E&()-_=+{},.%20.md)`` ,
+* ``[Folder](..//..//assets//github_b//1aA`~!@%23$%25%5E&()-_=+{}.%20,)`` .
+
+In-script/code shortening, only 1 definition per name in a file
+```
+[.md][_name_1_]
+
+[_name_1_]: ..//..//assets//github_b//1aA`~!@%23$%25%5E&()-_=+{},.%20.md
+```
+or, !!! highly suggested to use only with `#<<number>>`, `sho<<number>>` or `sho_<<number>>`
+```
+[#1]
+
+[#1]: ..//..//assets//github_b//1aA`~!@%23$%25%5E&()-_=+{},.%20.md 
+```
+
+On GitHub, [Space] can be escaped by [Numeric character reference](https://en.wikipedia.org/wiki/Numeric_character_reference)/HTML/XML
+```
+[.md](..//..//assets//github_b//1aA`~!@%23$%25%5E&()-_=+{},.&#x20;.md)
+
+[.md](../../assets/github_b/1aA`~!@%23$%25%5E&()-_=+{},.&#32;.md)
+```
+
+Image Embed
+```
+![pi](..//..//assets//github_b//co_dw_256x256.png)
+```
 
 
-## At the time, is not supported
+## At the time, doesn't work on Github
 
 Full Path on Windows: [.md](C://b//assets//github_b//1aA`~!@%23$%25%5E&()-_=+{},.%20.md) .
 
+[Folder](..\..\assets\github_b\1aA`~!@%23$%25%5E&()-_=+{}.%20,) -- `\`
+
+[Folder](..\\..\\assets\\github_b\\1aA`~!@%23$%25%5E&()-_=+{}.%20,) -- `\\`
+
+[.md](..//..//assets//github_b//1aA`~!@%23$%25%5E&()-_=+{},.+.md) -- `+` = [Space] -- some: Seach Engines and other sites;
+
+
+## [Percent-encoding](https://en.wikipedia.org/wiki/Percent-encoding)/URI/URL -- uses Unicode codes
+
+```
+Space %20
+` %60
+@ %40
+# %23   //MediaWiki: Wikipedia/Fandom; doesn't support in Article names
+$ %24
+% %25
+^ %5E
+& %26
+* %2A
+- %2D   //Epic Games Store uses to replace punctuation
+/ %2F
+: %3A
+; %3B
+< %3C
+= %3D
+> %3E
+? %3F
+[ %5B   //GitHub doesn't support in file/folder names
+\ %5C
+] %5D   //GitHub doesn't support in file/folder names
+_ %5F   //MediaWiki: Wikipedia/Fandom; converts to Space in Article names
+{ %7B   //MediaWiki: Wikipedia/Fandom; doesn't support in Article names
+| %7C
+} %7D   //MediaWiki: Wikipedia/Fandom; doesn't support in Article names
+~ %7E
+Carriage Return %0D
+Line Feed %0A
+```

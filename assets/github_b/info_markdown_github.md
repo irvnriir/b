@@ -125,7 +125,7 @@ The filename is supported by: Windows, [d Linux] . --
 
 [_name_1_]: ..//..//assets//github_b//1aA`~!@%23$%25%5E&()-_=+{},.%20.md
 
-[#1] -- !!! Xrud highly suggested to use only with `#<<number>>`, `sho<<number>>` or `sho_<<number>>` .
+[#1] -- !!! highly suggested to use only with `#<<number>>`, `sho<<number>>` or `sho_<<number>>` .
 
 [#1]: ..//..//assets//github_b//1aA`~!@%23$%25%5E&()-_=+{},.%20.md 
 

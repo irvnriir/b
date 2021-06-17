@@ -20,7 +20,7 @@ or, !!! highly suggested to use only with `#<<number>>`, `sho<<number>>` or `sho
 [#1]: ..//..//assets//github_b//1aA`~!@%23$%25%5E&()-_=+{},.%20.md 
 ```
 
-On GitHub, [Space] can be escaped by "[Numeric character reference](https://en.wikipedia.org/wiki/Numeric_character_reference)"/HTML/XML
+On GitHub, [Space] can be escaped by {[Numeric character reference](https://en.wikipedia.org/wiki/Numeric_character_reference)}/HTML/XML
 ```
 [.md](..//..//assets//github_b//1aA`~!@%23$%25%5E&()-_=+{},.&#x20;.md)
 

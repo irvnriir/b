@@ -82,11 +82,11 @@ text__
 
 ### Short
 
-`` \<\> whitespace__\_notWhitespace__ []\() []\[] []\: \` \~~ \|| \--- \* 1\. \$ ``
+`` \<\> whitespace_or_Underscore__\_notWhitespace__ []\() []\[] []\: \` \~~ \|| \--- \* 1\. \$ ``
 
 ### Description
 
-`` whitespace__\_notWhitespace__ `` -- to fix/escape [ [whitespace]`_`[notWhitespace] [anything] [notWhitespace]`_` ] .
+`` whitespace_or_Underscore__\_notWhitespace__ `` -- to fix/escape [ [whitespace or Underscore]`_`[notWhitespace] [anything] [notWhitespace]`_` ] .
 
 `` []\[] `` -- highly suggessted to escape, even though its usually not converted without relevant `` [line_notOnlyWhitespace__]: line_notOnlyWhitespace__ `` .
 

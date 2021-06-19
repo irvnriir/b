@@ -7,10 +7,15 @@ variableName_1__: line__
 <div align=center><h3><b>
 Github Markdown Description
 </b></h3><b>
-[info_markdown] [ver_dev] by Xrud
+[info_markdown] [ver_cu] by Xrud
 
 [English]
 </b></div>
+
+Content
+* [Main](info_markdown_github.md)
+* [Escaping](assets//escaping.md)
+* [Linking files, paths](assets//linking.md)
 
 This page is dev, but we think its simple enough .
 
@@ -77,39 +82,3 @@ text__ <sup
 text__
 
 </details>
-
-## Escaping
-
-### Short
-
-`` \<\> whitespace_or_Underscore__\_notWhitespace__ []\() []\[] []\: \` \~~ \|| \--- \* 1\. \$ ``
-
-### Description
-
-`` whitespace_or_Underscore__\_notWhitespace__ `` -- to fix/escape [ [whitespace or Underscore]`_`[notWhitespace] [anything] [notWhitespace]`_` ] .
-
-`` []\[] `` -- highly suggessted to escape, even though its usually not converted without relevant `` [line_notOnlyWhitespace__]: line_notOnlyWhitespace__ `` .
-
-`` \$ `` -- some processors use it as a Math text definition brackets .
-
-`` \~~ \|| `` -- Discord Markdown 101 (each such sequense, even if it continues the previous . escaping each/{by 1} is exessive, as these characters have meanings) .
-
-`` \<\> `` -- its easier to remember, but technicaly second `\` is not needed .
-
-`` \`\` `` -- fist `\` is an escape, and second is to prevent breaking of ` `` ` .
-
-`` \` []\() `` -- is other ones which escape too is required even not after start of line .
-
-`` \--- `` -- global escaping includes tables .
-
-`` \* ``
-
-`` 1\. ``
-
-`` [line_notOnlyWhitespace__]\: line_notOnlyWhitespace__ ``
-
-`` \`\`\` `` -- first `\` is an escape, and the other is to allow `` ` `` and ` `` ` next to it (without separating characters) .
-
-## Linking files, paths
-
-See [linking](assets//linking.md) .

@@ -1,7 +1,7 @@
 
 The filename is supported by: Windows, [dev Linux] . --
 
-`` 1aA\`~!@#$%^&()-\_=+{},. .md `` .
+`` 1aA`~!@#$%^&()-_=+{},. .md `` .
 
 GitHub required URL Escaping:
 * ``[.md](..//..//assets//github_b//1aA`~!@%23$%25%5E&()-_=+{},.%20.md)`` ,

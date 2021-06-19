@@ -51,8 +51,6 @@ newLines__
 <br />
 <br />
 
-\<\> \_text\_
-
 **text__**  
 <u>text__</u> : #underline . githubWiki supports, github_repository_code not ;  
 ~~text__~~  
@@ -79,6 +77,38 @@ text__ <sup
 text__
 
 </details>
+
+## Escaping
+
+### Short
+
+`` \<\> whitespace__\_notWhitespace__ []\() []\[] []\: \` \~~ \|| \--- \* 1\. \$ ``
+
+### Description
+
+`` whitespace__\_notWhitespace__ `` -- for [ [whitespace]`_`[notWhitespace] [anything] [notWhitespace]`_` ] .
+
+`` []\[] `` -- highly suggessted to escape, even though its usually not converted without relevant `` [line_notOnlyWhitespace__]: line_notOnlyWhitespace__ `` .
+
+`` \$ `` -- some processors use it as a Math text definition brackets .
+
+`` \~~ \|| `` -- Discord Markdown 101 (each such sequense, even if it continues the previous . escaping each/{by 1} is exessive, as these characters have meanings) .
+
+`` \<> `` -- otherwise its easier to remember, but technicaly second `\` is not needed .
+
+`` \`\` `` -- fist `\` is an escape, and second is to prevent breaking of ` `` ` .
+
+`` \` []\() `` -- other ones which escape too is required even in-line .
+
+`` \--- `` -- global escaping includes tables .
+
+`` \* ``
+
+`` 1\. ``
+
+`` [line_notOnlyWhitespace__]\: line_notOnlyWhitespace__ ``
+
+`` \`\`\` `` -- first `\` is an escape, and the other is to allow `` ` `` and ` `` ` next to it (without separating characters) .
 
 ## Linking files, paths
 

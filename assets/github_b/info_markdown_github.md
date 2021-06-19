@@ -94,7 +94,7 @@ text__
 
 `` \~~ \|| `` -- Discord Markdown 101 (each such sequense, even if it continues the previous . escaping each/{by 1} is exessive, as these characters have meanings) .
 
-`` \<> `` -- otherwise its easier to remember, but technicaly second `\` is not needed .
+`` \<\> `` -- its easier to remember, but technicaly second `\` is not needed .
 
 `` \`\` `` -- fist `\` is an escape, and second is to prevent breaking of ` `` ` .
 

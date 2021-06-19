@@ -86,7 +86,7 @@ text__
 
 ### Description
 
-`` whitespace__\_notWhitespace__ `` -- for [ [whitespace]`_`[notWhitespace] [anything] [notWhitespace]`_` ] .
+`` whitespace__\_notWhitespace__ `` -- to fix/escape [ [whitespace]`_`[notWhitespace] [anything] [notWhitespace]`_` ] .
 
 `` []\[] `` -- highly suggessted to escape, even though its usually not converted without relevant `` [line_notOnlyWhitespace__]: line_notOnlyWhitespace__ `` .
 

@@ -98,7 +98,7 @@ text__
 
 `` \`\` `` -- fist `\` is an escape, and second is to prevent breaking of ` `` ` .
 
-`` \` []\() `` -- is other ones which escape too is required even in-line .
+`` \` []\() `` -- is other ones which escape too is required even not after start of line .
 
 `` \--- `` -- global escaping includes tables .
 

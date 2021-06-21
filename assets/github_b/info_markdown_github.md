@@ -41,10 +41,10 @@ Paragraph__
 
 text__
 1. text__  
-	2. text__ -- github (doesn't process -- without empty newline)
+	2. text__
 5. text__
 
-	2. text__ -- github (number's language)
+	2. text__ -- github (number's language . with newline after previous indentation level)
 
 		3. text__ -- github
 		3. text__ -- github

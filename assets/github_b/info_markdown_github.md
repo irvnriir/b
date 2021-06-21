@@ -39,17 +39,19 @@ Paragraph__
 	* text__
 * text__
 
-text__
+text__ 
 1. text__  
-	2. text__
-5. text__
+	1. text__ -- github (number's language)
+		1. text__
+		2. text__
+2. text__
 
-	2. text__ -- github (number's language . with newline after previous indentation level)
+	1. text__
 
-		3. text__ -- github
-		3. text__ -- github
+		1. text__ -- github
+		2. text__ -- github (with newline after previous indentation level)
 
-			4. text__ -- github
+			1. text__ -- github
 6. text__
 
 newLines__

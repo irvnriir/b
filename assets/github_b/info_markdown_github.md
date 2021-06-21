@@ -39,8 +39,8 @@ Paragraph__
 	* text__
 * text__
 
-text__ 
-1. text__  
+text__
+1. text__
 	1. text__ -- github (number's language)
 		1. text__
 		2. text__

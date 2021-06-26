@@ -1,55 +1,53 @@
 
-The filename is supported by: Windows, GitHub, [dev Linux] . --
+The file and folder names is supported by: Windows, GitHub, [dev Linux] . --
 
-[dev `` 1aA`~!@#$%^&()-_=+[{]};'. ,/1aA`~!@#$%^&()-_=+[{]};', .md `` <!-- ",. .md" -->]
-
-[acs_t] #acs_t
-
-`` 1aA`~!@#$%^&()-_=+{},. .md `` .
+`` 1aA`~!@#$%^&()-_=+[{]};'. , ``, `` 1aA`~!@#$%^&()-_=+[{]};', .md `` <!-- [d ",. .md"] --> .
 
 GitHub required URL Escaping:
-* ``[.md](..//..//assets//github_b//1aA`~!@%23$%25%5E&()-_=+{},.%20.md)`` ,
-* ``[Folder](..//..//assets//github_b//1aA`~!@%23$%25%5E&()-_=+{}.%20,)`` .
+* %23 = `` # `` .
+* %25 = `` % `` .
+* %5E = `` ^ `` .
+* %20 = ` ` .
 
 In-script/code shortening, only 1 definition per name in a file
 ```
 [.md][_name_1_]
 
-[_name_1_]: ..//..//assets//github_b//1aA`~!@%23$%25%5E&()-_=+{},.%20.md
+[_name_1_]: ..//..//..//..//assets//github_b//1aA`~!@%23$%25%5E&()-_=+[{]};'.%20,//1aA`~!@%23$%25%5E&()-_=+[{]};',%20.md
 ```
 or, !!! highly suggested to use only with `#<<number>>`, `sho<<number>>` or `sho_<<number>>`
 ```
 [#1]
 
-[#1]: ..//..//assets//github_b//1aA`~!@%23$%25%5E&()-_=+{},.%20.md 
+[#1]: ..//..//..//..//assets//github_b//1aA`~!@%23$%25%5E&()-_=+[{]};'.%20,//1aA`~!@%23$%25%5E&()-_=+[{]};',%20.md
 ```
 
 On GitHub, [Space] can be escaped by {[Numeric character reference](https://en.wikipedia.org/wiki/Numeric_character_reference)}/HTML/XML
 ```
-[.md](..//..//assets//github_b//1aA`~!@%23$%25%5E&()-_=+{},.&#x20;.md)
+[.md](..//..//..//..//assets//github_b//1aA`~!@%23$%25%5E&()-_=+[{]};'.&#x20;,//1aA`~!@%23$%25%5E&()-_=+[{]};',&#x20;.md)
 
-[.md](../../assets/github_b/1aA`~!@%23$%25%5E&()-_=+{},.&#32;.md)
+[.md](..//..//..//..//assets//github_b//1aA`~!@%23$%25%5E&()-_=+[{]};'.&#32;,//1aA`~!@%23$%25%5E&()-_=+[{]};',&#32;.md)
 ```
 
 Image Embed
 ```
-![pi](..//..//assets//github_b//co_dw_256x256.png)
+![pi](..//..//..//..//assets//github_b//co_dw_256x256.png)
 ```
 
 
 ## At the time, doesn't work on Github
 
-Full Path on Windows: [.md](C://b//assets//github_b//1aA`~!@%23$%25%5E&()-_=+{},.%20.md) .
+Full Path on Windows: [.md](C://b//assets//github_b//1aA`~!@%23$%25%5E&()-_=+[{]};'.%20,//1aA`~!@%23$%25%5E&()-_=+[{]};',%20.md) .
 
-[Folder](..\..\assets\github_b\1aA`~!@%23$%25%5E&()-_=+{}.%20,) -- `\`
+[Folder](..\..\..\..\assets\github_b\1aA`~!@%23$%25%5E&()-_=+[{]};'.%20,) -- `\`
 
-[Folder](..\\..\\assets\\github_b\\1aA`~!@%23$%25%5E&()-_=+{}.%20,) -- `\\`
+[Folder](..\\..\\..\\..\\assets\\github_b\\1aA`~!@%23$%25%5E&()-_=+[{]};'.%20,) -- `\\`
 
-[.md](..//..//assets//github_b//1aA`~!@%23$%25%5E&()-_=+{},.+.md) -- `+` = [Space] -- some: Seach Engines and other sites;
+[.md](..//..//..//..//assets//github_b//1aA`~!@%23$%25%5E&()-_=+[{]};'.%20,/1aA`~!@%23$%25%5E&()-_=+[{]};',+.md) -- `+` = [Space] -- some: Seach Engines and other sites;
 
 Search:
 * not tested [ * ](https://docs.github.com/en/github/searching-for-information-on-github/searching-on-github/searching-code) : `` . , : ; / \ ` ' " = * ! ? $ & + ^ | ~ < > ( ) { } [ ] @ `` ;,
-* in "Code" : `` # `` ;,
+* in "Code" : `` # `` (require `"<<_>>"` for "Commits") ;,
 * in "Commits" : `` [] `` ;,
 * what leaves `` 1aA%-_ `` ;.
 

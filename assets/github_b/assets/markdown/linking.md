@@ -45,7 +45,7 @@ Full Path on Windows: [.md](C://b//assets//github_b//1aA`~!@%23$%25%5E&()-_=+{},
 
 [.md](..//..//assets//github_b//1aA`~!@%23$%25%5E&()-_=+{},.+.md) -- `+` = [Space] -- some: Seach Engines and other sites;
 
-Search: `` . , : ; / \ ` ' " = * ! ? # $ & + ^ | ~ < > ( ) { } [ ] @ `` [*](https://docs.github.com/en/github/searching-for-information-on-github/searching-on-github/searching-code) .
+Search: `` . , : ; / \ ` ' " = * ! ? # $ & + ^ | ~ < > ( ) { } [ ] @ ``, what leaves `` 1aA%-_ `` [*](https://docs.github.com/en/github/searching-for-information-on-github/searching-on-github/searching-code) .
 
 
 ## [Percent-encoding](https://en.wikipedia.org/wiki/Percent-encoding)/URI/URL -- uses Unicode codes

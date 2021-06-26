@@ -47,8 +47,8 @@ Full Path on Windows: [.md](C://b//assets//github_b//1aA`~!@%23$%25%5E&()-_=+[{]
 
 Search:
 * not tested [ * ](https://docs.github.com/en/github/searching-for-information-on-github/searching-on-github/searching-code) : `` . , : ; / \ ` ' " = * ! ? $ & + ^ | ~ < > ( ) { } [ ] @ `` ;,
-* in "Code" : `` # `` (require `"<<_>>"` for "Commits") ;,
-* in "Commits" : `` [] `` ;,
+* in "Code" : `` # [] `` (require `"<<_>>"` for "Commits") ;,
+<!-- * in "Commits" : `` `` ;, -->
 * what leaves `` 1aA%-_ `` ;.
 
 

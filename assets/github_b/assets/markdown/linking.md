@@ -3,7 +3,7 @@ The file and folder names is supported by: Windows, GitHub, [dev Linux] . --
 
 `` 1aA`~!@#$%^&()-_=+[{]};'. , ``, `` 1aA`~!@#$%^&()-_=+[{]};', .md `` <!-- [d ",. .md"] --> .
 
-What leaves `` *:"\|<>/? `` and a newline, from often-used keyboard .
+What leaves `` *:"\|<>/? `` and `<<\n>>`, from often-used keyboard .
 
 GitHub required URL Escaping:
 * %23 = `` # `` .

@@ -20,7 +20,7 @@ Also see the [Voting](https://github.com/irvnriir/b/issues?q=is%3Aissue+is%3Aope
 
 Privacy and Security
 * `.\.git\logs<<..>>` records/saves all data-assets-related git actions .
-* `.\.git\objects\<<..>>` and `.\.git\packed-refs` [d probably is other] use SHA-1 for asset names, that mean relations between copies .
+* `.\.git\objects\<<..>>` and `.\.git\packed-refs` [d probably is other] uses Clone personal, globally hight-unique names, that mean relations between copies .
 
 For controls and other, see [Git info by Xrud](system//info_git.md) .
 

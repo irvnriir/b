@@ -15,7 +15,7 @@ Github Markdown Description
 Content
 * [Main](info_markdown_github.md)
 * [Escaping](assets//markdown//escaping.md)
-* [Linking files, paths](assets//markdown//linking.md)
+* [Linking/Paths](assets//markdown//linking.md)
 
 This page is dev, but we think its simple enough .
 

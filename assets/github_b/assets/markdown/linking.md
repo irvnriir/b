@@ -36,6 +36,11 @@ Image Embed
 ![pi](..//..//..//..//assets//github_b//co_dw_256x256.png)
 ```
 
+Same page Anchor/Heading -- only --
+```
+[Heading](..//linking.md#h_sy_Heading)
+```
+
 
 ## At the time, doesn't work on Github
 
@@ -88,3 +93,4 @@ Carriage Return	%0D
 Line Feed		%0A
 ```
 
+### h_sy_Heading

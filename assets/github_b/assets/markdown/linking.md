@@ -87,3 +87,4 @@ _	%5F   //MediaWiki: Wikipedia/Fandom; converts to Space in Article names
 Carriage Return	%0D
 Line Feed		%0A
 ```
+

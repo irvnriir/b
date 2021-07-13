@@ -58,8 +58,8 @@ Search:
 
 ```
 Space	%20
-" %22
-' %27
+"	%22
+'	%27
 `	%60
 @	%40
 #	%23   //MediaWiki: Wikipedia/Fandom; doesn't support in Article names

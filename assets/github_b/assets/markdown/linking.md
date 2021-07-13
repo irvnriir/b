@@ -38,7 +38,7 @@ Image Embed
 
 Same page Anchor/Heading -- only --
 ```
-[Heading](..//linking.md#h_sy_Heading)
+[Heading](linking.md#h_sy_Heading)
 ```
 
 
